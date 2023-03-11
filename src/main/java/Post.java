@@ -3,7 +3,7 @@ public class Post {
     public String passport;
     public String phone;
     public String patronymic;
-    public String  surname;
+    public String surname;
     public boolean subscription;
     public FormDate birthday;
 
